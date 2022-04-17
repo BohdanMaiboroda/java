@@ -1,0 +1,15 @@
+            //3 Выполнение команды sql
+            //для select, updatem insert но НЕ ГОДИТЬСЯ для ХП
+                Statement stm = conn.createStatement();
+                
+                ResultSet rs = stm.executeQuery("???");
+                int num = 0;
+                while (rs.next())
+                {
+                    int id = rs.getInt("??");
+                    String str = rs.getString("??");
+                    String result = "Строка № "+num +"id = "+id+" name ="+str;
+                    System.out.println(result);
+                    num++;
+                }
+               conn.close();//ее место в секции finally

@@ -1,0 +1,12 @@
+import java.sql.DriverManager;//управление версиями драйевров
+
+import java.sql.Connection;//механизмы соединения БД
+import java.sql.Statement;//для запросов select (update)
+import java.sql.CallableStatement;//для работы с ХП
+import java.sql.ResultSet;//хранилище результата выборки
+import java.sql.SQLException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+                         //select
+
+import java.util.Vector;

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed3bfcc9-deae-4dbc-8ddd-4b76264032f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_springframework_spring_beans_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_springframework_spring_core_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_springframework_spring_tx_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateXMLTest/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateXMLTest/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateXMLTest/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HiberneteXMLTestExample/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HiberneteXMLTestExample/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/JavaApplication1/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/JavaApplication1/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/Longest/CodelandName/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/Longest/CodelandName/src/main/java/NameValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/Longest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/Longest/src/main/java/LongestWordExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/MavenJDBC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/target/classes/Category.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/target/classes/Hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/target/classes/Product.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/SpringJDBC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/seleniumwebdrivertester/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/seleniumwebdrivertester/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilesInJavaExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilesInJavaExample/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilesInJavaExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilesInJavaExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilesInJavaExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilesInJavaExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitExample/JavaEtalonClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ckj15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/java/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/java/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/java/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/java/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/java/OneToManyXLMMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/java/OneToManyXLMMapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/java/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/java/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/java/SQLiteDialect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/java/SQLiteDialect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/resources/Category.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/resources/Category.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/resources/Hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/resources/Hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/resources/Product.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/OneToManyXMLMapping/src/main/resources/Product.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateJpaMavenTest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HibernateJpaMavenTest/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateJpaMavenTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HibernateJpaMavenTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateJpaMavenTest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateJpaMavenTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HibernateJpaMavenTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateJpaMavenTest/src/main/java/HibernateJpaMavenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HibernateJpaMavenTest/src/main/java/HibernateJpaMavenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateJpaMavenTest/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HibernateJpaMavenTest/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HibernateJpaMavenTest/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HibernateJpaMavenTest/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEtalonClass/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitExample/JavaEtalonClass/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEtalonClass/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitExample/JavaEtalonClass/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEtalonClass/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitExample/JavaEtalonClass/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEtalonClass/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitExample/JavaEtalonClass/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEtalonClass/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitExample/JavaEtalonClass/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEtalonClass/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bohdan Maiboroda/HibernateJpaMaven/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEtalonClass/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitExample/JavaEtalonClass/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEtalonClass/src/main/java/JavaEtalonClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitExample/JavaEtalonClass/src/main/java/JavaEtalonClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEtalonClass/src/main/java/MyObjects/MyUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnitExample/JavaEtalonClass/src/main/java/MyObjects/MyUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumwebdrivertester/.idea/runConfigurations.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="22sDKnfluG9RtVxNKfXr0rRZW33" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaBot" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyFirstTelegramBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFirstTelegramBot" />
+      <module name="MyFirstTelegremBot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyFirstTelegramBot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed3bfcc9-deae-4dbc-8ddd-4b76264032f3" name="Default Changelist" comment="" />
+      <created>1640617341348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640617341348</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

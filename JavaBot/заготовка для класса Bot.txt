@@ -1,0 +1,86 @@
+public class Bot extends TelegramLongPollingBot
+{
+    static LongPollingBot getBot() {
+        return new Bot();
+    }
+    //DataBase db = nulll
+    public Bot()
+    {
+        super();
+        //db = new 
+    }
+    /**
+     * Метод возвращает имя бота, указанное при регистрации.
+     * @return имя бота
+     */
+    @Override
+    public String getBotUsername() {
+        //return "MyTelegram01012018bot";
+        //return "SimpleTellegramTest2801Bot";
+        return "???";//имя бота ждля обращения человеком
+    }
+
+    /**
+     * Метод возвращает token бота для связи с сервером Telegram
+     * @return token для бота
+     */
+    @Override
+    public String getBotToken() {
+        //return "75175811:AAHxYeleeMSHwQQy_7LOiP-G93Zsf5FjoVs";
+       //return "592011026:AAFYQLLXlFhihFkw69VKQUTRH2gMpKKhehg";
+       return "???";//здесь токен(=номер,имя), которое выдал
+                    //телеграм в момент регистрации бота
+    }
+//
+/**
+     * Метод для приема сообщений.
+     * @param update Содержит сообщение от пользователя.
+     */
+    @Override
+    public void onUpdateReceived(Update update) 
+    {
+        if (   update.hasMessage() 
+            && update.getMessage().hasText())
+        {
+            //
+            String message_text = update.getMessage().getText();
+            if (message_text.equals("/time")) 
+            {
+                 Date currentDate = new Date();
+                 String messageSend = currentDate.toString();
+                 
+                 long chat_id = update.getMessage().getChatId();
+                 sendMsg(update.getMessage().
+                         getChatId().toString(), messageSend);
+            }
+            else if (message_text.equals("/help")) 
+            {
+                long chat_id = update.getMessage().getChatId();
+                 sendMsg(update.getMessage().
+                         getChatId().toString(), "две команды: /time и /hello");
+            }
+                        else
+            {
+                String message = update.getMessage().getText();
+	        sendMsg(update.getMessage().getChatId().toString(), message);
+            }
+            //
+        }
+    }
+    /**
+     * Метод для настройки сообщения и его отправки.
+     * @param chatId id чата
+     * @param s Строка, которую необходимот отправить в качестве сообщения.
+     */
+    public synchronized void sendMsg(String chatId, String s) {
+        SendMessage sendMessage = new SendMessage();
+        sendMessage.enableMarkdown(true);
+        sendMessage.setChatId(chatId);
+        sendMessage.setText(s);
+        try {
+            sendMessage(sendMessage);
+        } catch (TelegramApiException e) {
+            //log.log(Level.SEVERE, "Exception: ", e.toString());
+        }
+    }
+}

@@ -1,0 +1,7 @@
+        //0 драйвер для работы с базой данных
+        //1 регистрация класса-драйвера
+        Class.forName("org.sqlite.JDBC");
+        //2 создание соединения Connection
+        Connection conn = null;
+        conn = DriverManager.getConnection("jdbc:sqlite:C:\\MyData\\test.db");
+        //3 получение из Connection объекта Statement
